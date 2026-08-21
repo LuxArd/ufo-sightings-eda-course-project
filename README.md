@@ -2,7 +2,7 @@
 
 ## Educational Data Science Course Project
 
-This repository presents an educational Data Science learning project. It is a documentation-first portfolio version of an earlier notebook exercise.
+Created in **2024** as part of my Data Science learning journey, this repository presents an educational learning project. It is a documentation-first portfolio version of an earlier notebook exercise.
 
 The project explored a public-style UFO sightings dataset through data cleaning, descriptive analysis, visualisation, and basic text exploration of written reports.
 
